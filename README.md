@@ -10,4 +10,4 @@
 
 If you managed to execute the steps above without any issues, you are ready for the workshop! 
 
-If you ran into any issues on the set up process, please come to the XL, and I can help you out straighten things out. 
+If you ran into any issues on the set up process, please come to the XL (SN027), and I can help you out straighten things out. Alternatively, you can [email me](yanaga@unc.edu) and I can find a time to help you out! 
